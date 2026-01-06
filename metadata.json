@@ -1,0 +1,5 @@
+{
+  "name": " WorkPlan Agent",
+  "description": "An AI-powered assistant that scans Excel work plans, identifies tasks for the upcoming week, and prepares personalized notifications for team members.",
+  "requestFramePermissions": []
+}
